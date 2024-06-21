@@ -3,118 +3,110 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Last updated_: August 23, 2023
 
-Please read these terms and conditions carefully before using Our Service.
+## 1. Acceptance of Terms
 
-## Interpretation and Definitions
+You must be of legal age to enter into a binding agreement in order to accept the Agreement . If you do not agree to the General Terms, do not use any of our Services. By accessing or using the services provided by [PatentAssist.ai](http://patentassist.ai/) ("Service"), you agree to be bound by these Terms and Conditions ("Terms"). If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these Terms, in which case the terms "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with these Terms, you must not accept this agreement and may not use the services.
 
-### Interpretation
+Upon mutual execution, each Order Form shall be deemed integrated into and constitutive of the Agreement. Pursuant to each Order Form, contingent upon Customer’s adherence to the stipulations delineated within this Agreement (inclusive of any constraints and provisions specified within the pertinent Order Form), PatentAssist.ai hereby confers upon Customer a nonexclusive, restricted, individual, non-transferrable right to access and utilize the PatentAssist.ai service(s) as delineated in said Order Form (hereinafter collectively referred to as the “Services”) for the duration outlined therein. Customer is solely permitted to employ the Services for its internal business operations and solely in accordance with PatentAssist.ai’s relevant official user documentation provided on the website.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+## 2. Description of Service
 
-### Definitions
+[PatentAssist.ai](http://patentassist.ai/) provides a cloud-based Software as a Service (SaaS) platform to intellectual property rights (IPR) related firms for patent drafting, searching, and other patent-related services. The Service utilizes advanced technologies including a proprietary fine-tuned engine and Large Language Models (LLMs) APIs provided by OpenAI, hosted on Microsoft Azure. This integration of third-party services and our own technology ensures enhanced performance and reliability of the Service.
 
-For the purposes of these Terms and Conditions:
+## 3. User Obligations
+You agree to (i) provide true, accurate, current, and complete information about yourself and your organization as required by the Service's registration form; (ii) maintain and promptly update the registration data to keep it true, accurate, current, and complete; (iii) use the services only for lawful purposes and in accordance with these Terms and any service-specific terms applicable to your use of the Service.
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+As a user of [PatentAssist.ai](http://patentassist.ai/)'s Services, you are required to adhere to the following obligations:
 
-- **Country** refers to: California, United States
+Restrictions on Service Use: You shall not, and shall not permit any third party to:
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AstroWind LLC, 1 Cupertino, CA 95014.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of the Services, except as permitted by law.
+- Modify, translate, or create derivative works based on the Services.
+- Copy, rent, lease, distribute, pledge, assign, or otherwise transfer or encumber rights to the Services.
+- Use the Services for the benefit of a third party, except as directly related to your clients as contemplated by the Services.
+- Remove or alter any proprietary notices or labels from the Services.
+- Use the Services to develop a competing product or service, or to interfere with or disrupt the functionality of the Services.
+- Bypass any measures implemented by [PatentAssist.ai](http://patentassist.ai/) to restrict access to the Services.
+- Falsely represent that any outputs from the Services are human-generated.
+- Engage in any form of data scraping or data extraction from the Services.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+You are solely responsible for the accuracy, quality, integrity, legality, reliability, and appropriateness of all data you input into the Services and the Output generated by the service. It is given that you will read, edit and modify the information generated by our AI to use it for any further legal purpose. You must ensure that you have all necessary rights, permissions, and consents to use and share Customer Data with [PatentAssist.ai](http://patentassist.ai/).
 
-- **Service** refers to the Website.
+Ensure that Customer Data does not contain sensitive information such as social security numbers, credit or debit card details (except the last four digits), health, genetic, or biometric data, racial or ethnic data, political opinions, religious or philosophical beliefs, trade union membership, sexual orientation, criminal history, or any data concerning a person under the age of 16.
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
+## 4. Intellectual Property
+All intellectual property rights in and to the Service, including but not limited to design, structure, and compilation of the software or technology used by [PatentAssist.ai](http://patentassist.ai/), belong exclusively to [PatentAssist.ai](http://patentassist.ai/) or its licensors. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from [PatentAssist.ai](http://patentassist.ai/).
 
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+For the purposes delineated within this Agreement, "Customer Data" refers to all Inputs and any other data, information, and materials furnished, uploaded, or submitted by the Customer to the Services, alongside all Outputs derived therefrom. The Customer shall maintain full ownership rights, including all intellectual property rights, over the Customer Data. It is understood and accepted by the Customer that [PatentAssist.ai](http://patentassist.ai/) may utilize and exhibit Customer Data to facilitate the provision of the Services and fulfill obligations under this Agreement.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+## 5. Confidentiality
 
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Both parties, referred to as the "Receiving Party" and the "Disclosing Party," acknowledge that during the course of this Agreement, access to certain sensitive and proprietary information ("Confidential Information") may be granted. Confidential Information includes, but is not limited to, non-public data related to business operations, strategies, pricing details, and financials of the Disclosing Party, its affiliates, and subsidiaries. It also encompasses the specific terms of this Agreement and any other data designated as confidential by the Disclosing Party.
 
-## Acknowledgment
+For [PatentAssist.ai](http://patentassist.ai/), Confidential Information includes all invention details provided by the user and any usage data collected. For the Customer, it includes all data submitted to or generated by the AI Services ("Customer Data").
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+Confidential Information does not cover data that is:
+(a) Already public knowledge or becomes publicly known through no breach of this clause,
+(b) Received rightfully from a third party not bound by confidentiality,
+(c) In the possession of the Receiving Party before disclosure by the Disclosing Party without confidentiality restrictions,
+(d) Developed independently by the Receiving Party without direct or indirect use of or reference to the Disclosing Party’s Confidential Information, and where such development can be clearly demonstrated.
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+The Receiving Party is obligated to:
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+1. Protect the Confidential Information with the same degree of care as it uses to safeguard its own confidential data, but not less than a reasonable standard of care.
+2. Use the Confidential Information solely as allowed under the terms of this Agreement and the [Privacy Policy](https://patentassist.ai/privacy-policy/) .
+3. Not disclose, distribute, or disseminate the Confidential Information to any third party, except as explicitly permitted by this Agreement or as required by law.
 
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
+In instances where legal processes necessitate the disclosure of Confidential Information, the Receiving Party must provide timely notice to the Disclosing Party to allow for the opportunity to contest the disclosure or seek appropriate protective measures.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+More inromation about out Privacy Policy can be found at https://patentassist.ai/privacy-policy/
 
-## Links to Other Websites
+## 6. Third-Party Services
+The Service is integrated with third-party services including OpenAI's LLM APIs and is hosted on Microsoft Azure. By using the Service, you agree to be bound by the terms and conditions of OpenAI and Microsoft Azure, which govern the use of their services. [PatentAssist.ai](http://patentassist.ai/) is not responsible for any disruptions, issues, or breaches that may arise from these third-party services.
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+## 7. Free Trial
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+[PatentAssist.ai](http://patentassist.ai/) offers a free trial period for new users to experience one or more of our Services without charge. The free trial will remain active until the earliest of the following: (i) the conclusion of the free trial period designated for the applicable Services, (ii) the commencement of a paid subscription for the Services, or (iii) termination of the trial by [PatentAssist.ai](http://patentassist.ai/) at its sole discretion.
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+During the free trial, any data you input into the Services and any customizations you make will not be retained unless you: (i) subscribe to a corresponding paid plan, (ii) purchase any necessary upgrades for the Services, or (iii) export such data prior to the expiration of the free trial period.
 
-## Termination
+Please note that the Services during the free trial are provided "as-is" and without any warranties, support, or guarantees of any kind, as permitted by law. [PatentAssist.ai](http://patentassist.ai/) assumes no liability for any data loss or other issues that may arise during or as a result of the free trial period.
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+## 8. Payment Terms
 
-Upon termination, Your right to use the Service will cease immediately.
+[PatentAssist.ai](http://patentassist.ai/) offers its Services under various subscription plans of differing durations. For subscription plans that are less than a year in duration, payments must be made exclusively via credit card. If you wish to continue using the services after your current subscription period ends, you must manually renew your subscription by purchasing a new plan. You will not be automatically enrolled in a new term.
 
-## Limitation of Liability
+Occasionally, [PatentAssist.ai](http://patentassist.ai/) may modify the pricing of any Service or start charging for services that were previously offered free of charge. Any price changes will not take effect until you choose to renew your subscription, ensuring that no immediate financial impact occurs. You will not incur charges for any Service unless you have selected a paid subscription plan.
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+Should any taxes such as GST, VAT, sales tax, or similar be applicable under local, state, provincial, or foreign laws with respect to your subscription ("Taxes"), [PatentAssist.ai](http://patentassist.ai/) will invoice you for such Taxes. These Taxes are in addition to the subscription fees, and you agree to pay them as part of your total payment obligation. [PatentAssist.ai](http://patentassist.ai/) will provide you with an invoice formatted according to the applicable laws, which may assist you in claiming input tax credits where applicable.
 
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+## 9. Termination and Suspension
 
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+[PatentAssist.ai](http://patentassist.ai/) may terminate or suspend your access to the Service immediately, without prior notice or liability, for any reason whatsoever, including, without limitation, if you breach the Terms. Upon termination, your right to use the Service will cease immediately.
 
-## "AS IS" and "AS AVAILABLE" Disclaimer
+## 10. Limitation of Liability
+To the maximum extent permitted by applicable law, [PatentAssist.ai](http://patentassist.ai/) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service.
 
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+## 11. Indemnification
+You agree to indemnify, defend, and hold harmless [PatentAssist.ai](http://patentassist.ai/), its affiliates, officers, directors, employees, consultants, agents, and licensors from and against any and all third-party claims, liabilities, damages, losses, costs, expenses, fees (including reasonable attorneys' fees and court costs) that such parties may incur as a result of or arising from:
 
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+1. Your use of the Services in violation of this Agreement, including, but not limited to, your breach of any of the representations and warranties outlined in the User Obligations section.
+2. Any data you provide to [PatentAssist.ai](http://patentassist.ai/), including but not limited to the violation of any third-party rights in relation to such data (such as rights of privacy or intellectual property rights).
+3. Your violation of any applicable laws, rules, or regulations through or related to the use of the Services.
+4. Any other party’s access and use of the Services with your unique username, password, or other appropriate security code.
+5. Any action related to your service as an intermediary or provider of the Services to third parties, if applicable, including any claims for poor quality, failure to perform, or failure to meet any consumer protection or similar requirements.
+6. Any other activities in connection with the Services not expressly authorized under this Agreement.
 
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
+This indemnification obligation will survive the termination or expiration of this Agreement and your use of the Services. You shall cooperate as fully as reasonably required in the defense of any claim. [PatentAssist.ai](http://patentassist.ai/) reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of [PatentAssist.ai](http://patentassist.ai/).
 
-## Governing Law
+## 12. Modifications
 
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+We may modify this Agreement upon notice to you at any time through a service announcement or by sending email to your primary email address. If we make significant changes to the Agreement that affect your rights, you will be provided with at least 30 days advance notice of the changes by email to your primary email address. You may terminate your use of the Services by providing Zoho notice by email within 30 days of being notified of the availability of the modified Agreement if the Agreement is modified in a manner that substantially affects your rights in connection with use of the Services. In the event of such termination, you will be entitled to prorated refund of the unused portion of any prepaid fees. Your continued use of the Service after the effective date of any change to the Agreement will be deemed to be your agreement to the modified Agreement.
 
-## Disputes Resolution
+## 13. Governing Law
+These Terms shall be governed and construed in accordance with the laws of India, without regard to its conflict of law provisions.
 
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-## For European Union (EU) Users
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
-
-## United States Legal Compliance
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-- By email: somecoolemail@domain.com
+## 14. End of Terms and Conditions
+If you have any questions about these Terms, please contact us at [contact@patentassist.ai](mailto:contact@patentassist.ai).
